@@ -1,0 +1,9 @@
+[ 
+	{ "key": "Interzis SRL/PFA/II/SA", "value": "Acest cod este interzis în toate tipurile de firme." },
+	{ "key": "Interzis SRL/PFA/II", "value": "Acest cod este interzis în majoritatea tipurilor de firme. Este permis în firme de tip SA (Societate pe actiuni)." },
+	{ "key": "Interzis PFA/II", "value": "Acest cod este interzis în firme de tip PFA si II. Este permis în firme de tip SRL." },
+	{ "key": "Obiect Unic", "value": "Daca selectezi acest cod nu vei mai putea selecta alte coduri. Aceasta va fi singura activitate pe care o vei putea desfășura cu firma." },
+	{ "key": "Obiect Principal", "value": "Daca selectezi acest cod va trebui sa îl pui Cod Principal." },
+	{ "key": "Autorizare Prealabilă", "value": "<p>Acesta este un cod care se desfășoară rar. Pe lângă documentele pe care ți le faci pe Approd s-ar putea să fie nevoie de autorizări prealabile care vor trebui puse la dosar.</p>" },
+	{ "key": "Cod special Galați", "value": "<p>Acest cod este cu probleme în Galați, fiindcă nu se acceptă codurile cu excepții.</p>" }
+]
