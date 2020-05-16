@@ -1,1 +1,1 @@
-### Romania-CAEN-Codes with diacritics
+### Romanian-CAEN-Codes with diacritics. JSON Object.
